@@ -4,7 +4,7 @@
   "description": "serve parse-dashboard",
   "main": "index.js",
   "engines": {
-    "node": "14.x"
+    "node": "16.x"
   },
   "devDependencies": {},
   "dependencies": {
